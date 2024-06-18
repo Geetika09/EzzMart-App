@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# EzzMart App - an Ecommerce Application🛒
 
 In the project directory, you can run:
 
